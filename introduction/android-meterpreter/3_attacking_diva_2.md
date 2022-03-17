@@ -1,8 +1,10 @@
 # Attacking DIVA with Metasploit 1
 
 ## Access Control Issues 3
-This problem (figure 2) deals with insecure content providers, such as exporting those that do not have the necessary permissions. Such is the case in this instance, as seen in figure 2.
+This problem (figure 1) deals with insecure content providers, such as exporting those that do not have the necessary permissions. Such is the case in this instance, as seen in figure 2.
+
 ![alt text](images/3/problem_outline.png)
+
 *Figure  1 - The problem outline.*
 
 ![alt_text](images/3/problematic_code.png)

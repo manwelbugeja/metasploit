@@ -10,4 +10,14 @@ Moving on, the required options for the listener are set on the on msfconsole, a
 ![alt text](images/5/acquiring_meterpreter.png)
 *Figure 2 - Acquiring a meterpreter.*
 
+Privileges can be elevated, provided the device is rooted; the root manager app may ask to grant the shell root access, depending on the settings. The privilage escalation process can be seen in figure 3. Figure 4 shows using these privilages to access the /data/data directory. 
+
+
+![alt text](images/5/elevating_privilages.png)
+*Figure 3 - Elevating privilages.*
+
+![alt text](images/5/listing_data_data.png)
+*Figure 4 - Accessing /data/data.*
+
 ## Sources
+https://www.infosecmatter.com/metasploit-module-library/?mm=payload/linux/x86/meterpreter/reverse_tcp
